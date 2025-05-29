@@ -27,5 +27,6 @@ API, which poses a financial challenge.
 
 ** Message Sending:** Sending alert messages to users also incurs costs, adding another
 layer of financial consideration.
+
 ![1000315910](https://github.com/user-attachments/assets/c7dcb105-0e37-4d5a-9fc7-0201f55a69b9)
 
